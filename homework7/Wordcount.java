@@ -74,18 +74,18 @@ public class Wordcount {
 
 	            
 	            
-	            System.out.print("A和B的并集是：");
+	            System.out.print("文件A和B的并集是：");
 			    Iterator<String> it1 = hs.iterator();	
 				while (it1.hasNext()) {
 					System.out.print(it1.next() + " ");
 					++cb;
 				}
 				System.out.println();
-				System.out.println("A和B的并集一共有" + cb + "个单词");
+				System.out.println("文件A和B的并集一共有" + cb + "个单词");
 				System.out.println("------------------------------");
  
 				Iterator<String> it2 = hm.keySet().iterator();
-				System.out.print("A和B的交集是：");
+				System.out.print("文件A和B的交集是：");
 				String word=null;
 				while (it2.hasNext()) {
 					if (hm.get(word= it2.next())) {
@@ -95,10 +95,10 @@ public class Wordcount {
 					}
 				}
 				System.out.println();
-				System.out.println("A和B的交集一共有" + cj + "个单词");
+				System.out.println("文件A和B的交集一共有" + cj + "个单词");
 				System.out.println("------------------------------");
 				
-				System.out.println("文件A有" + counta + "个单词。文件B有" + countb +"个单词");
+				System.out.println("文件A总共有" + counta + "个单词。文件B总共有" + countb +"个单词");
 	            System.out.println("------------------------------");
 	            double r1=((counta - cj)*1.0/counta)*100,r2=((countb-cj)*1.0/countb)*100;
 			    System.out.println("文件A的特有单词占A的单词总数的百分比为"+String.format("%1$.2f", r1)+ "%，文件B的特有单词占B的单词总数的百分比为" + String.format("%1$.2f", r2)+"%"); 
