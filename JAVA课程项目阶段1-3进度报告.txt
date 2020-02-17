@@ -1,3 +1,23 @@
+Project name: housing price and salary in major cities
+
+Project content: during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city.
+
+Project architecture and technologies involved:
+1. Grab web links through jsoup
+2. Fetch web page data through jsoup
+3. Analyze the data and get the results
+
+Project division: with erpeng, zhang yaoyuan to climb the price data
+Zheng liming climb to get salary data
+The three work together to analyze the data
+
+Difficulty in the project: when crawling the salary data, the data is generated dynamically, and the data must be searched first and then obtained each time
+
+Project plan: complete the crawling data before December 28
+Data analysis will be completed before December 31
+Before 1.6, complete the document arrangement of each part and upload
+
+
 项目名称：全国主要城市房价与工资爬取
 
 项目内容：在爬虫大项目的构思阶段，我们希望分析一下大家最关心的房价和工资数据，给程序员们提供一个更好的选择。我们小组的爬虫项目爬取的数据是：各个城市的房价和工资。
