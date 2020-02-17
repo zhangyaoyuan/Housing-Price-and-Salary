@@ -1,4 +1,4 @@
-# PkuJava31 for java class
+# Group:PkuJava31
 
 Project name: housing price and salary in major cities
 
