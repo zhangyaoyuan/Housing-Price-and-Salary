@@ -1,11 +1,11 @@
 ### Group Project : PkuJava31
 
-####Project name: housing price and salary in major cities
+Project name: housing price and salary in major cities
 
 Project content: during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city.
 
 Project architecture and technologies involved:
-...1. Grab web links through jsoup
+&ensp;1. Grab web links through jsoup
 ...2. Fetch web page data through jsoup
 ...3. Analyze the data and get the results by Python
 
