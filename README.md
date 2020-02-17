@@ -14,7 +14,7 @@
 
 **Project content**: 
 
-&ensp;during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city.
+...during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city..
 
 
 
@@ -39,7 +39,7 @@
 
 **Difficulty in the project**: 
 
-&ensp;when crawling the salary data, the data is generated dynamically, and the data must be searched first and then obtained each time
+...when crawling the salary data, the data is generated dynamically, and the data must be searched first and then obtained each time..
 
 
 
@@ -73,7 +73,7 @@
 
 **项目内容**: 
 
-&ensp;在爬虫大项目的构思阶段，我们希望分析一下大家最关心的房价和工资数据，给程序员们提供一个更好的选择。我们小组的爬虫项目爬取的数据是：各个城市的房价和工资。
+...在爬虫大项目的构思阶段，我们希望分析一下大家最关心的房价和工资数据，给程序员们提供一个更好的选择。我们小组的爬虫项目爬取的数据是：各个城市的房价和工资..
 
 
 **项目架构和所涉及的技术**:
@@ -97,7 +97,7 @@
 
 **项目难点**: 
 
-&ensp;爬取工资数据的时候，数据是动态生成的，每次必须先搜索再得到数据
+...爬取工资数据的时候，数据是动态生成的，每次必须先搜索再得到数据..
 
 
 **项目计划**:
