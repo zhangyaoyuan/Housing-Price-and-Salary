@@ -19,11 +19,7 @@ Project plan: complete the crawling data before December 28
 Data analysis will be completed before December 31
 Before 1.6, complete the document arrangement of each part and upload
 
-
-
-Group leader: zhang yaoyuan 1501210798
-Team member: tong erpeng 1501210992
-Team member: zheng liming 1501211044
+Group leader: zhang yaoyuan 1501210798  Team member: tong erpeng 1501210992  Team member: zheng liming 1501211044
 
 
 项目名称：全国主要城市房价与工资爬取
