@@ -14,7 +14,7 @@
 
 **Project content**: 
 
-⋅⋅⋅ during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city
+~during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city
 
 
 
