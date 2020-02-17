@@ -29,11 +29,11 @@ during the conception stage of the crawler project, we hope to analyze the housi
 
 **Project division**: 
 
-&ensp; 1.with erpeng, zhang yaoyuan to climb the price data
+&ensp; 1. with erpeng, zhang yaoyuan to climb the price data
 
-&ensp; 2.Zheng liming climb to get salary data
+&ensp; 2. Zheng liming climb to get salary data
 
-&ensp; 3.The three work together to analyze the data
+&ensp; 3. work together to analyze the data
 
 
 
@@ -45,11 +45,11 @@ when crawling the salary data, the data is generated dynamically, and the data m
 
 **Project plan**: 
 
-&ensp; 1.complete the crawling data before December 28
+&ensp; 1. complete the crawling data before December 28
 
-&ensp; 2.Data analysis will be completed before December 31
+&ensp; 2. Data analysis will be completed before December 31
 
-&ensp; 3.Before 6 January, complete the document arrangement of each part and upload all the project document
+&ensp; 3. Before 6 January, complete the document arrangement of each part and upload all the project document
 
 
 
@@ -74,11 +74,11 @@ when crawling the salary data, the data is generated dynamically, and the data m
 
 **项目架构和所涉及的技术**:
 
-&ensp;1.通过jsoup抓取网页链接  
+&ensp;1. 通过jsoup抓取网页链接  
 
-&ensp;2.通过jsoup抓取网页数据
+&ensp;2. 通过jsoup抓取网页数据
 
-&ensp;3.python分析数据并得到结果
+&ensp;3. python分析数据并得到结果
 
           
 **项目分工**:
