@@ -12,8 +12,11 @@ Project architecture and technologies involved:
 
 Project division: 
 &ensp; 1.with erpeng, zhang yaoyuan to climb the price data
+
 &ensp; 2.Zheng liming climb to get salary data
+
 &ensp; 3.The three work together to analyze the data
+
 
 Difficulty in the project: when crawling the salary data, the data is generated dynamically, and the data must be searched first and then obtained each time
 
