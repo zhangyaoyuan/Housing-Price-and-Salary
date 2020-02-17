@@ -1,7 +1,11 @@
 ### Group Project : PkuJava31 && Housing and Salary
 
-**Project name**: housing price and salary in major cities
 
+**Project name**: housing price and salary in major cities
+**Project Members**:
+Group leader: zhang yaoyuan 1501210798  
+Team member: tong erpeng 1501210992  
+Team member: zheng liming 1501211044
 
 
 **Project content**: during the conception stage of the crawler project, we hope to analyze the housing price and salary data that are most concerned by people, so as to provide programmers with a better choice. The data for our team's crawler project are: housing prices and wages in each city.
@@ -41,12 +45,14 @@
 
 
 
-Group leader: zhang yaoyuan 1501210798  
-Team member: tong erpeng 1501210992  
-Team member: zheng liming 1501211044
+
 
 
 **项目名称：全国主要城市房价与工资爬取**
+**项目成员**：
+组长：张耀元 1501210798 
+组员：同二鹏 1501210992 
+组员：郑黎明 1501211044 
 
 
 **项目内容**: 在爬虫大项目的构思阶段，我们希望分析一下大家最关心的房价和工资数据，给程序员们提供一个更好的选择。我们小组的爬虫项目爬取的数据是：各个城市的房价和工资。
@@ -86,8 +92,4 @@ Team member: zheng liming 1501211044
 &ensp;1.6号前完成各部分文档整理，并上传
          
          
-组长：张耀元 1501210798 
 
-组员：同二鹏 1501210992 
-
-组员：郑黎明 1501211044 
