@@ -9,15 +9,17 @@ Project architecture and technologies involved:
 2. Fetch web page data through jsoup
 3. Analyze the data and get the results by Python
 
-Project division: with erpeng, zhang yaoyuan to climb the price data
-Zheng liming climb to get salary data
-The three work together to analyze the data
+Project division: 
+1.with erpeng, zhang yaoyuan to climb the price data
+2.Zheng liming climb to get salary data
+3.The three work together to analyze the data
 
 Difficulty in the project: when crawling the salary data, the data is generated dynamically, and the data must be searched first and then obtained each time
 
-Project plan: complete the crawling data before December 28
-Data analysis will be completed before December 31
-Before 1.6, complete the document arrangement of each part and upload
+Project plan: 
+1.complete the crawling data before December 28
+2.Data analysis will be completed before December 31
+3.Before 6 January, complete the document arrangement of each part and upload all the project document
 
 Group leader: zhang yaoyuan 1501210798  Team member: tong erpeng 1501210992  Team member: zheng liming 1501211044
 
@@ -42,7 +44,6 @@ Group leader: zhang yaoyuan 1501210798  Team member: tong erpeng 1501210992  Tea
          1.6号前完成各部分文档整理，并上传
          
          
-  
 
 组长：张耀元 1501210798 
 组员：同二鹏 1501210992 
